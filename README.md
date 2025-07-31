@@ -10,21 +10,6 @@ Each of the below tutorials has an associated video tutorial. Be sure to checkou
 
 Come be a part of the growing community of drone application developers! Join the the conversation in our [discord](https://discord.gg/xZjXaAf).
 
-## Support My Work
-
-Donations are not required or expected for use. All work is licensed on the MIT license. That being said, if you find value in my work consider donating to help me create more content.  
-
-### Support Via Github Sponsors
-
-https://github.com/sponsors/ericjohnson97
-
-### Support Via Paypal
-
-[<img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg">](https://www.paypal.me/intelligentquads)
-
-[paypal.me/intelligentquads](https://www.paypal.com/paypalme/intelligentquads)
-
-
 
 ## Software Development Tutorials
 
@@ -103,15 +88,6 @@ https://github.com/sponsors/ericjohnson97
 
 [GNC API Documentation](docs/GNC_functions_documentation.md)
 
-## Discounts on Dev Resources for Students 
-
-[Github Student Developer Pack](https://education.github.com/pack)
-
-## Affiliate Links 
-
-[Digital Ocean $100 for 60 days credit](https://m.do.co/c/6752af521fd4)
-
----
 
 ## References 
 http://ardupilot.org/copter/index.html
